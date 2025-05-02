@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Hsm Teknoloji LLC
+hexaTune LLC
 
-www.hsmteknoloji.com
+www.hexatune.com
 
 - 📫 How to reach us: 
-  - 📫 info@hsmteknoloji.com
+  - 📫 contact@hexatune.com
   
 - 💬 if there's anything you need don't hesitate to ask
