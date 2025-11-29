@@ -1,0 +1,16 @@
+# SPDX-FileCopyrightText: 2025 hexaTune LLC
+# SPDX-License-Identifier: MIT
+
+welcome:
+  newPRWelcomeComment: >
+    👋 **Welcome to hTuneSys!**  
+    Thank you for your first pull request 🎉  
+    A maintainer will review it soon.  
+    In the meantime, please make sure your PR follows our [contribution guidelines](https://github.com/hTuneSys/hTuneSys/blob/main/.github/CONTRIBUTING.md).  
+    Happy hacking! 🚀
+
+  newIssueWelcomeComment: >
+    👋 Welcome!  
+    Thanks for submitting your first issue.  
+    A maintainer will look into it shortly.  
+    While you wait, you might want to check our [FAQ](https://github.com/hTuneSys/hTuneSys/blob/main/docs/FAQ.md) or [README](https://github.com/hTuneSys/hTuneSys#readme) for helpful info.
