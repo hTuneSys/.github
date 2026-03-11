@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hTuneSys/hTuneSys/main/hexaTune.png" width="600">
+  <img src="https://raw.githubusercontent.com/hTuneSys/.github/main/hexaTune.png" width="600">
 </p>
 
 # hexaTune LLC
